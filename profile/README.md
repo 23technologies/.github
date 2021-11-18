@@ -1,8 +1,10 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/23technologies/logos/main/23technologies.png" alt="23 Technologies" width="492" height="106" />
-</p>
-
 23 Technologies is a global first team working to bring cloud native technologies to the industry. We are actively working on Gaia-X and are committed to a data-sovereign Europe, sustainable IT solutions and open-source software development.
+
+<p align="center">
+  <a href="https://23technologies.cloud/en#jobs-anchor">
+    <img src="https://raw.githubusercontent.com/23technologies/.github/main/profile/images/we-are-hiring.png" alt="We are hiring!" />
+  </a>
+</p>
 
 ## 23KE
 
